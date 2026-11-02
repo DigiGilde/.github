@@ -35,9 +35,9 @@ Hieronder staat een selectie van onze projecten. Meer vind je in het [handboek](
       <p><a href="https://amt.rijksapp.nl">Website</a> · <a href="https://github.com/MinBZK/amt">GitHub</a></p>
     </td>
     <td width="33%" valign="top">
-      <h4><a href="https://plak.rijks.app/">Plak</a></h4>
-      <p>Publiceer en deel statische sites: openbaar, achter SSO Rijk, met genodigden of via een geheime link. Elke pull request kan een eigen preview krijgen. Plak draait in productie als beta.</p>
-      <p><a href="https://plak.rijks.app/">Website</a> · <a href="https://github.com/DigiGilde/plak">GitHub</a></p>
+      <h4><a href="https://toon.rijks.app/">Toon</a></h4>
+      <p>Publiceer en deel statische sites: openbaar, achter SSO Rijk, met genodigden of via een geheime link. Elke pull request kan een eigen preview krijgen. Toon draait in productie als beta.</p>
+      <p><a href="https://toon.rijks.app/">Website</a> · <a href="https://github.com/DigiGilde/toon">GitHub</a></p>
     </td>
     <td width="33%" valign="top"></td>
   </tr>
